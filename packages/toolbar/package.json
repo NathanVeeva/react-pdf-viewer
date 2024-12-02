@@ -18,7 +18,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/react-pdf-viewer/react-pdf-viewer",
+        "url": "https://github.com/NathanVeeva/react-pdf-viewer.git",
         "directory": "packages/toolbar"
     },
     "bugs": {
